@@ -1,4 +1,2 @@
-# ucla-example
-
-## I like Turtles
+# I like Dogs
 They're pretty much the best
